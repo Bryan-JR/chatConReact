@@ -1,0 +1,1 @@
+export const PORT = process.env.PORT || 4000; //Puerto para el servidor
